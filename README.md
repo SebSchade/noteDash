@@ -7,3 +7,8 @@ This is the project page for the iOS app, which is the primary distribution chan
 Project info:
 https://www.angentsoftworks.com/projects/notedash /
 https://www.angentsoftworks.com/
+
+<br>
+
+<img src="https://github.com/user-attachments/assets/17a5108a-6053-4094-908b-22b4bc07b944" height="400"/>
+<img src="https://github.com/user-attachments/assets/02c344af-3471-455f-9d2a-939f16a09c3c" height="400"/>
